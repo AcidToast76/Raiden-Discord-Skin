@@ -20,7 +20,7 @@
 
 :root {
   /* Background image variables */
-  --background-image: url('https://i.pinimg.com/736x/e2/cc/22/e2cc22f4ddd67b652a849aea58250489.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://cdnb.artstation.com/p/assets/images/images/028/023/697/large/vinz-pascua-night.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
