@@ -20,7 +20,7 @@
 
 :root {
   /* Background image variables */
-  --background-image: url('https://image3.uhdpaper.com/wallpaper/night-moon-forest-scenery-digital-art-uhdpaper.com-8K-119.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://cdn.vox-cdn.com/thumbor/RCgw2Zj9TK-yEhBjBek52qiMBsg=/11x17:1898x1056/920x613/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/72921759/vlcsnap_2023_12_01_10h37m31s394.0.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
